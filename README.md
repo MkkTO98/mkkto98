@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Python by employing what I learn in small projects to showcase my development.
-- 🔭 Additionally I’m currently working on and slowly making progress towards setting up my personal website, I want to build it from scratch and understand the HTML, CSS and JavaScript I end up employing.
+- 🌱 I’m currently learning Python by employing what I learn in projects to showcase my development.
+- 🔭 I’m currently slowly making progress towards setting up my personal website, I want to build it from scratch and understand the HTML, CSS and JavaScript I end up employing.
+- Additionally I am working on development of structured AI & local analytical infrastructure, environments and workflow systems.
 <!--
 **MkkTO98/mkkto98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
